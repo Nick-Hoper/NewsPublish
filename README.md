@@ -30,9 +30,7 @@
 
 > 前端主要展示了banner图、新闻列表、新闻类别、评论等数据：
 
-![前端](C:\Users\jy\Documents\NewsPublish\ScreenShot\前端.png)
-
-![前端.png](https://github.com/Nick-Hoper/NewsPublish/blob/master/ScreenShot/前端.png)
+![前端.png](https://github.com/Nick-Hoper/NewsPublish/blob/main/ScreenShot/前端.png)
 
 
 
@@ -40,19 +38,19 @@
 
 > 后端主要是对banner图、新闻类别、新闻、新闻评论的管理。地址是在前端的基础上增加区域(/admin/home/index)。看看效果图吧：
 
-![新闻管理](C:\Users\jy\Documents\NewsPublish\ScreenShot\新闻管理.png)
+![新闻管理](https://github.com/Nick-Hoper/NewsPublish/blob/main/ScreenShot/新闻管理.png)
 
-![新闻类别](C:\Users\jy\Documents\NewsPublish\ScreenShot\新闻类别.png)
-
-
+![新闻类别](https://github.com/Nick-Hoper/NewsPublish/blob/main/ScreenShot/新闻类别.png)
 
 
 
-![新闻评论](C:\Users\jy\Documents\NewsPublish\ScreenShot\新闻评论.png)
+
+
+![新闻评论](https://github.com/Nick-Hoper/NewsPublish/blob/main/ScreenShot/新闻评论.png)
 
 
 
-![banner管理](C:\Users\jy\Documents\NewsPublish\ScreenShot\banner管理.png)
+![banner管理](https://github.com/Nick-Hoper/NewsPublish/blob/main/ScreenShot/banner管理.png)
 
 
 
