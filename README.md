@@ -30,7 +30,7 @@
 
 > 前端主要展示了banner图、新闻列表、新闻类别、评论等数据：
 
-![前端.png](https://github.com/Nick-Hoper/NewsPublish/blob/main/ScreenShot/前端.png)
+![前端.jpg](https://github.com/Nick-Hoper/NewsPublish/blob/main/ScreenShot/前端.jpg)
 
 
 
