@@ -4,7 +4,7 @@
 
 主要是对.net core有了一个新的认识并可以开发出一个自己的.net core程序.
 
-相关视频教程地址
+[相关视频教程地址](https://study.163.com/course/courseMain.htm?courseId=1005955006)
 
 #### 技术栈
 
