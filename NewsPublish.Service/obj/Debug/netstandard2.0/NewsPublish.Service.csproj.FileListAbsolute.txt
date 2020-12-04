@@ -1,0 +1,12 @@
+D:\Nick\NewsPublish\NewsPublish.Service\bin\Debug\netstandard2.0\NewsPublish.Service.deps.json
+D:\Nick\NewsPublish\NewsPublish.Service\bin\Debug\netstandard2.0\NewsPublish.Service.dll
+D:\Nick\NewsPublish\NewsPublish.Service\bin\Debug\netstandard2.0\NewsPublish.Service.pdb
+D:\Nick\NewsPublish\NewsPublish.Service\bin\Debug\netstandard2.0\NewsPublish.Model.dll
+D:\Nick\NewsPublish\NewsPublish.Service\bin\Debug\netstandard2.0\NewsPublish.Model.pdb
+D:\Nick\NewsPublish\NewsPublish.Service\obj\Debug\netstandard2.0\NewsPublish.Service.csprojAssemblyReference.cache
+D:\Nick\NewsPublish\NewsPublish.Service\obj\Debug\netstandard2.0\NewsPublish.Service.AssemblyInfoInputs.cache
+D:\Nick\NewsPublish\NewsPublish.Service\obj\Debug\netstandard2.0\NewsPublish.Service.AssemblyInfo.cs
+D:\Nick\NewsPublish\NewsPublish.Service\obj\Debug\netstandard2.0\NewsPublish.Service.csproj.CoreCompileInputs.cache
+D:\Nick\NewsPublish\NewsPublish.Service\obj\Debug\netstandard2.0\NewsPublish.Service.csproj.CopyComplete
+D:\Nick\NewsPublish\NewsPublish.Service\obj\Debug\netstandard2.0\NewsPublish.Service.dll
+D:\Nick\NewsPublish\NewsPublish.Service\obj\Debug\netstandard2.0\NewsPublish.Service.pdb
